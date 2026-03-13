@@ -1,0 +1,78 @@
+{
+
+  "db_host": "localhost",
+  "db_user": "root",
+  "db_password": "rohit-21",
+  "db_name": "jobs",
+
+  "max_apply": 50,
+
+  "roles": [
+    "graduate engineer trainee",
+    "software engineer trainee",
+    "data engineer",
+    "data scientist",
+    "ml engineer",
+    "ai engineer",
+    "data analyst",
+    "python developer",
+    "sql developer",
+    "web developer",
+    "software engineer",
+    "software developer",
+    "full stack developer",
+    "backend developer",
+    "frontend developer"
+
+
+  ],
+
+  "locations": [
+    "pune",
+    "mumbai",
+    "hyderabad",
+    "ahmedabad",
+    "surat",
+    "bengaluru",
+    "chennai",
+    "vadodara",
+    "remote",
+    "work from home",
+    "noida",
+    "gurugram",
+    "delhi",
+    "kolkata"
+    
+
+  ],
+
+  "technologies": [
+    "python",
+    "mysql",
+    "sql",
+    "postgresql",
+    "pandas",
+    "machine learning",
+    "power bi",
+    "tableau",
+    "etl",
+    "data visualization",
+    "aws",
+    "oracle",
+    "oci",
+    "react.js",
+    "node.js",
+    "javascript",
+    "kafka",
+    "spark",
+    "hadoop",
+    "airflow",
+    "docker",
+    "kubernetes",
+    "ci/cd",
+    "git",
+    "data science",
+    "data analytics"
+
+  ]
+}
