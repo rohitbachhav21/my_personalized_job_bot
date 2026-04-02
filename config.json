@@ -8,15 +8,14 @@
   "max_apply": 50,
 
   "roles": [
-    "graduate engineer trainee",
-    "software engineer trainee",
+    
+    "python developer",
+    "sql developer",
     "data engineer",
     "data scientist",
     "ml engineer",
     "ai engineer",
     "data analyst",
-    "python developer",
-    "sql developer",
     "web developer",
     "software engineer",
     "software developer",
@@ -25,23 +24,24 @@
     "frontend developer"
 
 
+
   ],
 
   "locations": [
+    "remote",
+    "work from home",
     "pune",
+    "vadodara",
     "mumbai",
     "hyderabad",
     "ahmedabad",
-    "surat",
     "bengaluru",
     "chennai",
-    "vadodara",
-    "remote",
-    "work from home",
     "noida",
     "gurugram",
     "delhi",
     "kolkata"
+    
     
 
   ],
@@ -53,10 +53,8 @@
     "postgresql",
     "pandas",
     "machine learning",
-    "power bi",
     "tableau",
     "etl",
-    "data visualization",
     "aws",
     "oracle",
     "oci",
